@@ -1,0 +1,21 @@
+names:
+- person
+- bicycle
+- car
+- motorcycle
+- bus
+- truck
+- traffic light
+- stop sign
+- chair
+- bench
+- bottle
+- cup
+- cell phone
+- book
+- handbag
+- door
+nc: 16
+path: /content/drive/MyDrive/Colab Notebooks/FYP_Model_NEW/datasets/processed/COCO_YOLO_FINAL
+train: train/images
+val: val/images

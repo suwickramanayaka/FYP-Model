@@ -1,0 +1,11 @@
+
+# Ignore datasets, model weights, logs, and Colab-specific files
+__pycache__/
+.ipynb_checkpoints/
+annotations.zip
+train.zip
+val.zip
+test.zip
+runs/
+outputs/yolov8m_COCO_FYP/
+datasets/
